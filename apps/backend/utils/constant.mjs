@@ -1,0 +1,3 @@
+const DEV_API_KEY = "aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL1VQQ01W"
+
+export {DEV_API_KEY}
